@@ -25,3 +25,11 @@ console.log(sum);
 
 let result = evenOrOdd(sum);
 
+
+if (userChoice === result) {
+    console.log('Hai vinto!')
+}
+
+else {
+    console.log('Hai perso!');
+}
