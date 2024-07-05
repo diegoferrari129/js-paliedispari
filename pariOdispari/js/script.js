@@ -32,4 +32,4 @@ if (userChoice === result) {
 
 else {
     console.log('Hai perso!');
-}
+} 
