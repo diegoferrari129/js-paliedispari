@@ -13,3 +13,7 @@ function evenOrOdd(sum){
 
 }
 
+let userChoice = prompt('Digita pari oppure dispari');
+
+let userNumber = parseInt(prompt('Inserisci un numero compreso da 1 a 5'));
+
