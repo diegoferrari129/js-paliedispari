@@ -17,3 +17,11 @@ let userChoice = prompt('Digita pari oppure dispari');
 
 let userNumber = parseInt(prompt('Inserisci un numero compreso da 1 a 5'));
 
+let pcNumber = randomNumber();
+console.log(pcNumber);
+
+let sum = userNumber + pcNumber;
+console.log(sum);
+
+let result = evenOrOdd(sum);
+
