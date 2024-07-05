@@ -39,4 +39,17 @@ Creare una funzione per capire se la parola inserita è palindroma
 2.4- :altrimenti
 2.4.1- richiamo la funzione a false
 
+//////////////////////////////////////////////////////////////////////////////
+Pari e Dispari
+L’utente inserisce prima  "pari" o "dispari" poi inserisce un numero da 1 a 5. Generiamo un numero random (sempre da 1 a 5) per il computer (usando una funzione).
+Sommiamo i due numeri
+Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
+Dichiariamo chi ha vinto.
+
+1 - selelezionare pari o dispari --> dichiaro una variabile con con valore aquisito da una prompt
+2 - inserire un numero --> dichiaro un'altra variabile con un valore aqusiito da un'altra prompt
+3 - generare un numero random --> definisco una funzione con 'math.random'
+4 - sommare i due numeri --> utilizzo l'operatore di somma
+5 - stabilire se la somma è pari o dispari --> definisco una funzione con l'operatore di resto
+6 - dichiarare il vincitore --> dichiaro una condizione
 
