@@ -9,7 +9,13 @@ function palindroma(word) {
 
     }
 
-    
+    if (inverseWord === word){
+        console.log('La parola digitata è palindroma');
+    }
+
+    else {
+        console.log('La parola digitata NON è palindroma')
+    }
 }
 
 const userInput = prompt('Inserisci una parola');
